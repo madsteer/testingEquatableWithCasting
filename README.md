@@ -1,0 +1,1 @@
+# Testing Equatable with Casting
